@@ -1,6 +1,5 @@
 package com.fjz.scp.ControlePonto;
 
-import com.fjz.scp.ControlePonto.controller.OcorrenciaController;
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Info;
 import io.swagger.v3.oas.models.info.License;
@@ -11,7 +10,6 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class ControlePontoApplication {
-	static OcorrenciaController ocorrenciaController;
 
 	public static void main(String[] args) {
 		SpringApplication.run(ControlePontoApplication.class, args);
