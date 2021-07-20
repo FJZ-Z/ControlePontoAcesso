@@ -1,2 +1,2 @@
 # ControlePontoAcesso
-Projeto criado para o BootCamp Santander/DIO (backend)
+Projeto criado para BootCamp DIO (backend)
